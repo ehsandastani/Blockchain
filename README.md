@@ -8,4 +8,12 @@ With blockchain technology, we can create an environment in which nodes that do 
 Note that:
 * A ledger is a way of recording data as transactions occur.
 * You can only add data to a ledger. You cannot change anything after you've added it. So, the only two operations you can perform on this ledger are <b>"add"</b> and <b>"read"</b>.
+* Data is added to this ledger in blocks. blocks are collections of transactions, each with an owner's address.
+* Addresses are the unique IDs of accounts in our ledger system.
+* When there are enough transactions to make a new block, some of the blockchain participants begin the process of adding a new block to the ledger.
+* Each new block is linked to the previous block, making a chain.
+
+
+
+
 
