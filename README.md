@@ -13,7 +13,7 @@ With blockchain technology, we can create an environment in which nodes that do 
 * When there are enough transactions to make a new block, some of the blockchain participants begin the process of adding a new block to the ledger.
 * Each new block is linked to the previous block, making a chain.
 
-
+To be continued!
 
 
 
