@@ -7,5 +7,5 @@ With blockchain technology, we can create an environment in which nodes that do 
 
 Note that:
 * A ledger is a way of recording data as transactions occur.
-* You can only add data to a ledger. You cannot change anything after you've added it. So, the only two operations you can perform on this ledger are <b>add</b> and <b>read</b>.
+* You can only add data to a ledger. You cannot change anything after you've added it. So, the only two operations you can perform on this ledger are <b>"add"</b> and <b>"read"</b>.
 
