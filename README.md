@@ -37,8 +37,7 @@ carrying a wad of cash around.
 </p>
 
 <p align="justify">
-Of course, you really purchased a title to a car. Blockchain handles digital assets You still have to physically get the keys and the car from the seller!:grin:
-</p>
+Of course, you really purchased a title to a car. Blockchain handles digital assets You still have to physically get the keys and the car from the seller!</p>:grin:
 
 <p id="footnote-1" align="justify">[Note 1]: Immutability  isn’t  actually  a  blockchain  guarantee.  You  can  change
 data in any block,  even after other blocks are added to the blockchain.
