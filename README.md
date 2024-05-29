@@ -24,7 +24,7 @@ Putting it all together, a blockchain makes it possible to share a set of data w
 
 ### Smart Contract
 <p align="justify">
-The last big advantage to blockchain is that you can put rules of operation in blocks on the BC as well. These rules are called "<em>smart contract</em>". A smart contract is just a program that lives in a blockchain block and governs how data is added to the BC. Because all blockchain data is immutable, even the smart contract code is immune from changes.
+The last big advantage to blockchain is that you can put rules of operation in blocks on the BC as well. These rules are called "<em>smart contract</em>". A smart contract is just a program that lives in a blockchain block and governs how data is added to the BC. Because all blockchain data is immutable<a href="#footnote-1">*</a>, even the smart contract code is immune from changes.
 </p>
 
 <p align="justify">
@@ -40,5 +40,26 @@ carrying a wad of cash around.
 Of course, you really purchased a title to a car. Blockchain handles digital assets You still have to physically get the keys and the car from the seller!
 </p>
 
-## Ethereum
+<p id="footnote-1" align="justify">* Immutability  isn’t  actually  a  blockchain  guarantee.  You  can  change
+data in any block,  even after other blocks are added to the blockchain.
+Howerever, as soon as you change a block, that block and all subsequent blocks fail integrity checks  and  your  node  is  out  of  sync. 
+ Instead  of  saying  that  the  blockchain  is 
+immutable, it is more accurate to say that any changes (mutations) to the blockchain
+are easily and immediately detected. </p>
 
+## Ethereum
+<p align="justify">
+Ethereum wasn’t created just to exchange cryptocurrency. In fact, it was designed
+from  the  beginning  to  be  different.  The  core  features  of  Ethereum  are  the 
+smart  contract  and  ether. 
+<b><em>Ether</em></b>  is  the  native  cryptocurrency  that  Ethereum
+supports,  although  you  can  create  your  own  tokens  to  exchange  value  in  many 
+other  forms. Smart  contracts  provide  an  execution  environment  that  ensures 
+integrity across all nodes. Any code that executes on one node executes the same 
+way  on  all  nodes.  This  guarantee  makes  it  possible  to  deploy  a  wide  range  of applications across untrusted environments.
+</p>
+
+### Ethereum's Consensus
+<p align="justify">
+
+</p>
