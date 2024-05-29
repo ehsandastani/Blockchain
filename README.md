@@ -46,7 +46,7 @@ However, as soon as you change a block, that block and all subsequent blocks fai
 immutable, it is more accurate to say that any changes (mutations) to the blockchain
 are easily and immediately detected. </p>
 
-## Ethereum
+## :point_right: Ethereum
 <p align="justify">
 Ethereum wasn’t created just to exchange cryptocurrency. In fact, it was designed
 from  the  beginning  to  be  different.  The  core  features  of  Ethereum  are  the 
@@ -58,7 +58,7 @@ integrity across all nodes. Any code that executes on one node executes the same
 way  on  all  nodes.  This  guarantee  makes  it  possible  to  deploy  a  wide  range  of applications across untrusted environments.
 </p>
 
-### Ethereum's Consensus
+### :point_right: Ethereum's Consensus
 <p align="justify">
  Each node in Ethereum gets an equal vote. Every time nodes get a new block to add to the blockchain, they validate the block and its
  transactions, and then vote whether to accept or reject the block. If several different
