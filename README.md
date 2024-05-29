@@ -22,7 +22,7 @@ With blockchain technology, we can create an environment in which nodes that do 
 Putting it all together, a blockchain makes it possible to share a set of data with many nodes that you don't trust. You can trust the democracy of the network, though. <b>As long as you can trust that more than half of the nodes on the blockchain network are going to be honest, you can trust the blockchain.</b>
 </p>
 
-### Smart Contract
+### :point_right: Smart Contract
 <p align="justify">
 The last big advantage to blockchain is that you can put rules of operation in blocks on the BC as well. These rules are called "<em>smart contract</em>". A smart contract is just a program that lives in a blockchain block and governs how data is added to the BC. Because all blockchain data is immutable <a href="#footnote-1">[Note1]</a>, even the smart contract code is immune from changes.
 </p>
