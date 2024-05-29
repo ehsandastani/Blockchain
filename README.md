@@ -36,7 +36,9 @@ account. Without any middleman, you have purchased a car and paid for it without
 carrying a wad of cash around.
 </p>
 
+<p align="justify">
 Of course, you really purchased a title to a car. Blockchain handles digital assets You still have to physically get the keys and the car from the seller!
+</p>
 
 ## Ethereum
 
