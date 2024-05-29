@@ -1,4 +1,4 @@
-# Blockchain
+# :chains: Blockchain
 
 First, we should know this is just a data structure like the others! It is not a separate layer in the network that we have to merge them! :pinched_fingers: <br>
 <p align="justify">
