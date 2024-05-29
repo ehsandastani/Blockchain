@@ -42,7 +42,7 @@ Of course, you really purchased a title to a car. Blockchain handles digital ass
 
 <p id="footnote-1" align="justify">[Note 1]: Immutability  isn’t  actually  a  blockchain  guarantee.  You  can  change
 data in any block,  even after other blocks are added to the blockchain.
-Howerever, as soon as you change a block, that block and all subsequent blocks fail integrity checks  and  your  node  is  out  of  sync. 
+However, as soon as you change a block, that block and all subsequent blocks fail integrity checks  and  your  node  is  out  of  sync. 
  Instead  of  saying  that  the  blockchain  is 
 immutable, it is more accurate to say that any changes (mutations) to the blockchain
 are easily and immediately detected. </p>
@@ -60,6 +60,24 @@ way  on  all  nodes.  This  guarantee  makes  it  possible  to  deploy  a  wide 
 </p>
 
 ### Ethereum's Consensus
+<p align="justify">
+ Each node in Ethereum gets an equal vote. Every time nodes get a new block to add to the blockchain, they validate the block and its
+ transactions, and then vote whether to accept or reject the block. If several different
+blocks are submitted by different nodes, only one of the blocks can receive votes 
+from a majority. The block that gets more than half of the network node’s votes 
+gets to join the blockchain as its newest block.
+</p>
+
+<p align="justify">
+One of the first problems is to determine when a new block is ready for the
+BC. When too many conflicting blocks are submitted, the voting process slows 
+down. Ethereum makes it hard to add new blocks to keep the number of new block 
+collisions  low  and  to  make  voting  faster. 
+Ethereum  uses  a  consensus  protocol called 
+<em>Proof of Work  (PoW)</em>, which  sets  the  rules  for  validating  and  adding  new 
+blocks. PoW makes add blocks to the blockchain difficult but profitable.
+</p>
+
 <p align="justify">
 
 </p>
