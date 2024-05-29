@@ -24,7 +24,7 @@ Putting it all together, a blockchain makes it possible to share a set of data w
 
 ### Smart Contract
 <p align="justify">
-The last big advantage to blockchain is that you can put rules of operation in blocks on the BC as well. These rules are called "<em>smart contract</em>". A smart contract is just a program that lives in a blockchain block and governs how data is added to the BC. Because all blockchain data is immutable<a href="#footnote-1">*</a>, even the smart contract code is immune from changes.
+The last big advantage to blockchain is that you can put rules of operation in blocks on the BC as well. These rules are called "<em>smart contract</em>". A smart contract is just a program that lives in a blockchain block and governs how data is added to the BC. Because all blockchain data is immutable <a href="#footnote-1">[Note1]</a>, even the smart contract code is immune from changes.
 </p>
 
 <p align="justify">
@@ -40,7 +40,7 @@ carrying a wad of cash around.
 Of course, you really purchased a title to a car. Blockchain handles digital assets You still have to physically get the keys and the car from the seller!
 </p>
 
-<p id="footnote-1" align="justify">* Immutability  isn’t  actually  a  blockchain  guarantee.  You  can  change
+<p id="footnote-1" align="justify">[Note 1]: Immutability  isn’t  actually  a  blockchain  guarantee.  You  can  change
 data in any block,  even after other blocks are added to the blockchain.
 Howerever, as soon as you change a block, that block and all subsequent blocks fail integrity checks  and  your  node  is  out  of  sync. 
  Instead  of  saying  that  the  blockchain  is 
